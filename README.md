@@ -1,6 +1,8 @@
 # PRODIGY_ML_04
 Task 4 of the Prodigy InfoTech ML internship which involves building a hand gesture recognition model using CNN.
 
+![Hand Gesture Recognition Demo](https://github.com/Sapphire9-7/PRODIGY_ML_04/blob/main/GIF/HandGes.gif)
+
 # Hand Gesture Recognition using CNN
 
 This project is focused on recognizing hand gestures using Convolutional Neural Networks (CNN). The project consists of two main components:
